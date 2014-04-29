@@ -1,0 +1,79 @@
+
+body {
+	margin: 10px;
+}
+
+a {
+color: #775FED;
+}
+
+h1.newtitle {
+
+font-family: Arial,Helvetica,sans-serif;
+font-size: 44px;
+line-height: 44px;
+font-weight: 800;
+color: #333;
+text-transform: uppercase;
+
+}
+
+#description {
+font-family: Arial,Helvetica,sans-serif;
+font-size: 14px;
+line-height: 14px;
+font-weight: 600;
+color: #777;
+text-transform: uppercase;
+}
+
+
+
+ul.rh {
+	list-style: bullets;
+}
+
+#boxtop {
+background-color: #d29e00;
+border-color: #d4d4d4;
+border-style: solid;
+border-width: 1px;
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+-moz-border-top-left-radius: 6px;
+-moz-border-top-right-radius: 6px;
+-khtml-border-top-left-radius: 6px;
+-khtml-border-top-right-radius: 6px;
+padding: 10px;
+padding-left: 20px;
+font-size: 22px;
+/*font-weight: bold;*/
+}
+
+
+a.boxtop {
+color: #333;
+}
+
+
+#boxbottom {
+border-color: #d4d4d4;
+border-style: solid;
+border-width: 1px;
+border-bottom-left-radius: 6px;
+border-bottom-right-radius: 6px;
+-moz-border-bottom-left-radius: 6px;
+-moz-border-bottom-right-radius: 6px;
+-khtml-border-bottom-left-radius: 6px;
+-khtml-border-bottom-right-radius: 6px;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+background-color: #E6E6E6;
+}
+
+#logo {
+float: right;
+margin-top: -50px;
+margin-bottom: 30px;
+}
