@@ -9,35 +9,35 @@ $(document).ready(function(){
 		selected="Xander, don't speak Latin in front of the books.";
 	}
 
-	if (selector === 2){
+	else if (selector === 2){
 		selected="Please do not send so much glitter. It ruins the carpet.";
 	}
 
-	if (selector === 3){
+	else if (selector === 3){
 		selected="No good can come of any association with anything labelled Kathryn.";
 	}
 
-	if (selector === 4){
+	else if (selector === 4){
 		selected="Of course too much is bad for you.";
 	}
 
-	if (selector === 5){
+	else if (selector === 5){
 		selected="Please bear in mind throughout that it is meant to be funny.";
 	}
 
-	if (selector === 6){
+	else if (selector === 6){
 		selected="Tinker Tailor Sherlock Spy.";
 	}
 
-	if (selector === 7){
+	else if (selector === 7){
 		selected="Songs of love echo, I love mashed potato.";
 	}
 
-	if (selector === 8){
+	else if (selector === 8){
 		selected="Oh hello, 1997.";
 	}
 
-	if (selector === 9){
+	else if (selector === 9){
 		selected="What is it you do again?";
 	}
 
